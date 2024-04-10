@@ -13,3 +13,6 @@ Goals for the project
 As I continue this course and genearlly grow as a Software Engineer, I will continue to cement my knowledge on Data Structures by updating this repo with more classes and more implementation files. For now I'm planning to add:
   - Stacks & Queues
   - Trees
+
+Currently Included:
+- Linked List
